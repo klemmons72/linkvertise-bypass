@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name LinkvertiseBypass
 // @namespace http://tampermonkey.net/
-// @version 1
+// @version 1.0
 // @updateURL https://raw.githubusercontent.com/klemmons72/linkvertise-bypass/main/bypasslinkvertise.js
 // @description Bypass linkvertise
 // @author Bandz
