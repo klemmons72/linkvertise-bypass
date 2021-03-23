@@ -4,7 +4,7 @@
 // @version 1
 // @updateURL https://raw.githubusercontent.com/klemmons72/linkvertise-bypass/main/bypasslinkvertise.js
 // @description Bypass linkvertise
-// @author FireMasterK
+// @author Bandz
 // @match *://*.linkvertise.com/*
 // @match *://*.linkvertise.net/*
 // @match *://*.link-to.net/*
