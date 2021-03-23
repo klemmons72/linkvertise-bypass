@@ -2,7 +2,7 @@
 // @name LinkvertiseBypass
 // @namespace http://tampermonkey.net/
 // @version 1
-// @updateURL https://raw.githubusercontent.com/FireMasterK/BypassAdditions/master/script.user.js
+// @updateURL https://raw.githubusercontent.com/klemmons72/linkvertise-bypass/main/bypasslinkvertise.js
 // @description Bypass linkvertise
 // @author FireMasterK
 // @match *://*.linkvertise.com/*
