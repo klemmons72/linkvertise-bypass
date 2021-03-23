@@ -2,7 +2,7 @@
 // @name LinkvertiseBypass
 // @namespace http://tampermonkey.net/
 // @version 1
-// @updateURL https://raw.githubusercontent.com/klemmons72/linkvertise-bypass/main/bypasslinkvertise.js
+// @updateURL https://github.com/klemmons72/linkvertise-bypass/raw/main/LinkvertiseBypass.user.js
 // @description Bypass linkvertise
 // @author Bandz
 // @match *://*.linkvertise.com/*
